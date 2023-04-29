@@ -2242,9 +2242,10 @@ input, select, textarea {
 			padding-left: 0.5em;
 		}
 
-		ul.alt {
-			list-style: none;
-			padding-left: 0;
+		ul.square {
+			margin: 0 0 0 2em;
+			list-style-type: square;  
+			font-size: 0.93em;
 		}
 
 			ul.alt li {
