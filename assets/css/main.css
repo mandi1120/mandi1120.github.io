@@ -2389,6 +2389,7 @@ input, select, textarea {
 	ul.feature-icons {
 		list-style: none;
 		padding-left: 0;
+		margin: 1em 0 1em 0;
 	}
 
 		ul.feature-icons li {
@@ -2446,7 +2447,7 @@ input, select, textarea {
 			}
 
 			ul.icons li .icon:before {
-				font-size: 3em;
+				font-size: 2.5em;
 			}
 
 /* Table */
@@ -2778,9 +2779,14 @@ input, select, textarea {
 			flex-shrink: 0;
 			bottom: 0;
 			left: 0;
-			padding: 2em;
+			padding: 1em;
 			width: 100%;
 		}
+			#header > footer p {
+				color: #87a8b7;
+				font-style: italic;
+				margin: 1em 0 1em 0;
+			}
 
 			#header > footer .icons {
 				margin: 0;
@@ -2907,7 +2913,7 @@ input, select, textarea {
 				}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 0.5em;
 				}
 
 		/* Wrapper */
@@ -3219,7 +3225,7 @@ input, select, textarea {
 					}
 
 				#header > footer {
-					padding: 1.5em;
+					padding: 0.5em;
 				}
 
 		/* Main */
