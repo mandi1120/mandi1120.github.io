@@ -2236,7 +2236,7 @@ input, select, textarea {
 			.image.main h3 {
 				position: relative;
 				color: #022242;
-				font-size: 1.5em;
+				font-size: 1.3em;
 				z-index: 5;
 				text-align: center;
 				top: 49%;
@@ -3191,7 +3191,7 @@ input, select, textarea {
 			}
 
 			.image.main {
-				height: 16em;
+				height: 20em;
 			}
 
 		/* Section/Article */
