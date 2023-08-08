@@ -2207,7 +2207,7 @@ input, select, textarea {
 			display: block;
 			height: 20em;
 			border-radius: 0;
-			filter: grayscale(1);
+			/*filter: grayscale(1);*/
 			position: relative;
 		}
 
