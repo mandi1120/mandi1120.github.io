@@ -5,11 +5,8 @@
 	Read Only by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 	avatar: https://monogramframes.com/
-	color: #ededed
-	
-	blue: #022242, #023668, #022c55
+	color: #ededed, blue: #022242, #023668, #022c55, grey: #38383b
 */
 
 html, body, div, span, applet, object,
@@ -122,7 +119,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #022242 !important;
+			color: #38383b !important;
 		}
 
 	strong, b {
@@ -139,7 +136,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #1f1f1f;
+		color: #e3e3e3;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1790,12 +1787,12 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #022242;
+		color: #38383b;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #1f1f1f;
+			color: #38383b;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1853,7 +1850,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #022242;
+			border-color: #38383b;
 		}
 
 	select {
@@ -1958,7 +1955,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #022242;
+			border-color: #38383b;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2217,7 +2214,7 @@ input, select, textarea {
 
 			.image.main h2 {
 				position: relative;
-				color: #1f1f1f;
+				color: #e3e3e3;
 				font-size: 3.25em;
 				z-index: 5;
 				background-color: rgba(255, 255, 255, 0);
@@ -2234,7 +2231,7 @@ input, select, textarea {
 
 			.image.main h3 {
 				position: relative;
-				color: #1f1f1f;
+				color: #e3e3e3;
 				font-size: 1.3em;
 				z-index: 5;
 				text-align: center;
@@ -2442,7 +2439,7 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #022242;
+				background: #38383b;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2658,7 +2655,7 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #022242;
+			background-color: #38383b;
 			color: #ffffff !important;
 		}
 
@@ -2740,7 +2737,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #022242;
+		background: #38383b;
 		color: #e3e3e3;
 		height: 100%;
 		overflow-y: auto;
@@ -2855,7 +2852,7 @@ input, select, textarea {
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #022242!important;
+							color: #38383b!important;
 						}
 
 					#header > nav ul li:first-child {
@@ -3123,7 +3120,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #022242;
+						background: #38383b;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
